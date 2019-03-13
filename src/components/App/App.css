@@ -2,3 +2,7 @@ div {
   background-color: #99cc00;
   padding: 12px;
 }
+
+div::selection {
+  top: 1px;
+}
